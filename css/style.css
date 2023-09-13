@@ -36,3 +36,53 @@ div {
     border-color: #fff;
     border-style: solid;
 }
+.introduction {
+    border-radius: 15px;
+    margin-top: 15px;
+    line-height: 2;
+}
+.red {
+    background-color: #ff0000;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-left: 5px;
+    border-width: 0px 0px 5px 2px;
+    border-style: solid;
+}
+.blue {
+    background-color: #0000ff;
+    text-align: left;
+    margin-right: 50px;
+    border-right: 5px;
+    margin-top: 2px;
+}
+.blue h2 {
+    color: #C4C4C4
+}
+.blue p {
+    color: #C4C4C4;
+
+}
+.yellow {
+    background-color: #ffff00;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-left: 5px;
+}
+.yellow p {
+    color: #707070
+}
+.green {
+    background-color: #00EB00;
+    text-align: left;
+    margin-right: 50px;
+    border-right: 5px;
+    margin-top: 2px;
+}
+footer {
+    background: linear-gradient(#000000, );
+    border: 5px;
+    border-style: solid;
+}

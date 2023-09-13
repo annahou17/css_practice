@@ -21,12 +21,18 @@ p {
     padding-left: 10px;
 }
 img {
-    
+    width: 250px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    border: 9px;
+    border: 10px;
     border-color: #fff;
     border-style: dashed;
+}
+div {
+    height: 125px;
+    padding: 20px;
+    border: 3px;
+    border-color: #fff;
+    border-style: solid;
 }
